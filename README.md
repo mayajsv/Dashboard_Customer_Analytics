@@ -12,7 +12,7 @@ O objetivo deste projeto foi analisar o grau de satisfação dos seus clientes a
 - Neutros (Avaliação: 7 a 8) - Suscetíveis ás ofertas da concorrência, entretanto deve ser acompanhado de perto sua experiência com os produtos e serviços para não perdê-los.
 - Promotores (Avaliação: 9 a 10) - São os possíveis embaixadores da marca, gostaram tanto da experiência que são leais.
 
-- CSAT (Customer Satisfaction Score)- Acompanhar de perto o quão satisfeito o cliente encontrase com o serviço ou produto fornecido.
+- CSAT (Customer Satisfaction Score) - Acompanhar de perto o quão satisfeito o cliente encontrase com o serviço ou produto fornecido.
 
 # Como este repositório está estruturado
 
