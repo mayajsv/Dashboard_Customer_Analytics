@@ -8,9 +8,9 @@ O objetivo deste projeto foi analisar o grau de satisfação dos seus clientes a
 
 - NPS(Net Promoter Score) - Mensurar a satisfação dos clientes com um atendimento, produto ou serviço.
 
- - Detratores (Avaliação: 1 a 6) - Necessitam de sua atenção, não estão felizes com sua marca e há uma grande possibilidade de falarem mal dela por ai;
- - Neutros (Avaliação: 7 a 8) - Suscetíveis ás ofertas da concorrência e entretanto deve ser acompanhado de certo sua experiência com os produtos e serviços para não perdê-los.
- - Promotores (Avaliação: 9 a 10) - São os possíveis embaixadores da marca, gostaram tanto da experiência que são leais.
+- Detratores (Avaliação: 1 a 6) - Necessitam de sua atenção, não estão felizes com sua marca e há uma grande possibilidade de falarem mal dela por ai.
+- Neutros (Avaliação: 7 a 8) - Suscetíveis ás ofertas da concorrência e entretanto deve ser acompanhado de certo sua experiência com os produtos e serviços para não perdê-los.
+- Promotores (Avaliação: 9 a 10) - São os possíveis embaixadores da marca, gostaram tanto da experiência que são leais.
 
 - CSAT (Customer Satisfaction Score)- Acompanhar de perto o quão satisfeito o cliente encontrase com o serviço ou produto fornecido.
 
