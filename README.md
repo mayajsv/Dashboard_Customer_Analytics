@@ -6,13 +6,15 @@ Este projeto foi desenvolvido com o objetivo de analisar a experiência do clien
 
 O objetivo deste projeto foi analisar o grau de satisfação dos seus clientes após o envio de uma pesquisa realizada no período de setembro de 2021 em relação ao atendimento e produtos fornecidos pela corretora de investimentos. Tendo a meta estratégica de reter, atrair e conquistar novos clientes no Brasil em 2022 sendo o ponto chave a satisfação de seus clientes.
 
-•	NPS(Net Promoter Score) - Mensurar a satisfação dos clientes com um atendimento, produto ou serviço.
+-	NPS(Net Promoter Score) - Mensurar a satisfação dos clientes com um atendimento, produto ou serviço.
 
-•	Detratores (Avaliação: 1 a 6) - Necessitam de sua atenção, não estão felizes com sua marca e há uma grande possibilidade de falarem mal dela por aí.
-•	Neutros (Avaliação: 7 a 8) - Suscetíveis às ofertas da concorrência, entretanto deve ser acompanhado de perto sua experiência com os produtos e serviços para não perdê-los.
-•	Promotores (Avaliação: 9 a 10) - São os possíveis embaixadores da marca, gostaram tanto da experiência que são leais.
+-	Detratores (Avaliação: 1 a 6) - Necessitam de sua atenção, não estão felizes com sua marca e há uma grande possibilidade de falarem mal dela por aí.
+  
+-	Neutros (Avaliação: 7 a 8) - Suscetíveis às ofertas da concorrência, entretanto deve ser acompanhado de perto sua experiência com os produtos e serviços para não perdê-los.
+  
+-	Promotores (Avaliação: 9 a 10) - São os possíveis embaixadores da marca, gostaram tanto da experiência que são leais.
 
-•	CSAT (Customer Satisfaction Score) - Acompanhar de perto o quão satisfeito o cliente encontra-se com o serviço ou produto fornecido.
+-	CSAT (Customer Satisfaction Score) - Acompanhar de perto o quão satisfeito o cliente encontra-se com o serviço ou produto fornecido.
 
 
 # Como este repositório está estruturado
