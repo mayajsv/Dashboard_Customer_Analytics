@@ -19,7 +19,7 @@ O objetivo deste projeto foi analisar o grau de satisfação dos seus clientes a
 
 # Como este repositório está estruturado
 
-- Veja o dashboard do projeto [Dashboard Customer Analytics](https://app.powerbi.com/view?r=eyJrIjoiNzRhZmNmZjUtNWZiNC00ZDY2LWEwMWUtZGM5MmQxNGNjNGVhIiwidCI6ImY4ODI5MTFhLTQ0OTctNDhmOS1hNjlmLThiZjVkZGUwZjg3OSJ9);
+- Veja o dashboard do projeto [Dashboard Customer Analytics](https://app.powerbi.com/view?r=eyJrIjoiYjlkNGFiM2EtMjY1Yi00MmFjLThlZDItZjc4MmY1ZTRhZDdhIiwidCI6IjIyMzY0MzM3LTNmNmItNGM5Zi04ZWQ4LTNhNWE1YjFiOWE0YiJ9);
 - Veja os dados utilizados [Customer Data Analytics](https://github.com/mayajsv/Dashboard_Customer_Analytics/commit/24a5a0ebe4cfe095591012825160e26ab015288d).
 
 # Tecnologias
